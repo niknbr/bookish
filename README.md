@@ -1,3 +1,3 @@
 # BookishApp
 
-[Git Page Demo](https://nikz99.github.io/bookish/)
+[Git Page Demo](https://niknbr.github.io/bookish/)
